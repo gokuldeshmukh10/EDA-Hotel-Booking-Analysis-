@@ -1,2 +1,2 @@
 # EDA-Hotel-Booking-Analysis-
-Analyzing The Data Of Hotel Booking
+Analyzing The Data Of Hotel Bookings
